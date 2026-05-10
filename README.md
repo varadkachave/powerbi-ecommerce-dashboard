@@ -15,8 +15,8 @@ This project is a business sales dashboard created using Power BI.
 - Excel
 - DAX
 
-## Dashboard Preview
-(Add screenshot here)
+
+
 
 ## Author
 Varad Kachave
